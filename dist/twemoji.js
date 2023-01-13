@@ -24,7 +24,7 @@ var twemoji = (function (
     /////////////////////////
 
       // default assets url, by default will be Twitter Inc. CDN
-      base: 'cdn.jsdelivr.net/gh/topsecret-chat/twemoji@v13.1.1x/assets',
+      base: 'https://cdn.jsdelivr.net/gh/topsecret-chat/twemoji@v13.1.1x/assets',
 
       // default assets file extensions, by default '.png'
       ext: '.png',
